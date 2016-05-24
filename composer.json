@@ -1,0 +1,22 @@
+{
+    "name": "sarikayabtl\mesaj",
+    "description": "The Content module for Yii framework.",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "yii 2", "mesaj"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Betül SARIKAYA",
+            "email": "sarikayabtl@gmail.com"
+        }
+    ],
+	"minimum-stability": "stable",
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+    "autoload": {
+        "psr-4": {
+            "sarikayabtl\\mesaj\\": ""
+        }
+    }
+}
